@@ -1,4 +1,6 @@
 # jd-fortune
+A few files full of (mostly stolen) quotes and jokes.
+
 To get a random line from these files:
 - Install fortune-mod if you haven't already
 - Copy all files except README.md to /usr/share/fortune
